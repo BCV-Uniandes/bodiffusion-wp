@@ -1,14 +1,14 @@
-# Nerfies
+# BoDiffusion
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the BoDiffusion website.
 
-If you find Nerfies useful for your work please cite:
+If you find BoDiffusion useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{castillo2023bodiffusion,
+  author    = {Castillo, Angela and Escobar, Maria and Jeanerette, Guillaume and Pumarola, Albert and Arbeláez, Pablo and Thabet, Ali and Sanakoyeu, Artsiom},
+  title     = {BoDiffusion: Diffusing Sparse Observations for Full-Body Human Motion Synthesis},
+  journal   = {Arxiv},
+  year      = {2023},
 }
 ```
 
