@@ -5,7 +5,7 @@ This is the repository that contains source code for the BoDiffusion website.
 If you find BoDiffusion useful for your work please cite:
 ```
 @article{castillo2023bodiffusion,
-  author    = {Castillo, Angela and Escobar, Maria and Jeanerette, Guillaume and Pumarola, Albert and Arbeláez, Pablo and Thabet, Ali and Sanakoyeu, Artsiom},
+  author    = {Castillo, Angela and Escobar, Maria and Jeanneret, Guillaume and Pumarola, Albert and Arbeláez, Pablo and Thabet, Ali and Sanakoyeu, Artsiom},
   title     = {BoDiffusion: Diffusing Sparse Observations for Full-Body Human Motion Synthesis},
   journal   = {Arxiv},
   year      = {2023},
